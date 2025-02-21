@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natalieweronik
 - 👀 I’m interested in coding, cats, crocheting (the 3 C's), baking, astronomy & singing
-- 🌱 I’m currently learning C++ and Java (self teaching!)
+- 🌱 I’m currently learning AWS and Java
 - 💞️ I’m looking to collaborate on anything! I love new projects!
 - 📫 How to reach me: discord @nandromeda
 - 😄 Pronouns: she/they
