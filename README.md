@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @natalieweronik
-- 👀 I’m interested in coding, cats, crocheting (the 3 C's), baking, astronomy & singing
-- 🌱 I’m currently learning AWS and Java
-- 💞️ I’m looking to collaborate on anything! I love new projects!
-- 📫 How to reach me: discord @nandromeda
-- 😄 Pronouns: she/they
-- ⚡ Fun fact: I have a college dorm cat named Inky🐾
+**Hi there!**
 
-<!---
-natalieweronik/natalieweronik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Natalie, a computer science student based in Connecticut, USA.
+
+I design web apps, extensions, and short games.
+
+My main languages are Python, HTML, CSS, and Javascript.
+
+My main tech stack is currently in react. My favorite tools for designing are figma and canva. 
+
+Fun Facts:
+- I have 6 cats
+- I am a big wrestling fan
+- I am currently binging JJK and SpyXFamily (I am chronically behind on animes!)
+- **Hobbies**: Crocheting, making coffees, gym
