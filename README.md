@@ -1,4 +1,4 @@
-**Hi there!**👋
+**Hi there!** 👋
 
 I'm Natalie, a computer science student based in Connecticut, USA.
 
