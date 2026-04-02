@@ -4,7 +4,7 @@ I'm Natalie, a computer science student based in Connecticut, USA.
 
 I design web apps, extensions, and short games.
 
-My main languages are Python, HTML, CSS, and Javascript.
+My main languages are Python, HTML, CSS, and Javascript. 
 
 My main tech stack is currently in react. My favorite tools for designing are figma and canva. 
 
